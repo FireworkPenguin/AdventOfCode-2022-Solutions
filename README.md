@@ -42,4 +42,4 @@ Each program reads the test's input from a seperate file with the naming convent
 
 - Day 12 : Incomplete - Stuck either in an unending loop or giving a empty list as a route
 
-- Day 13 : Incomplete - Giving the right results in the test input, not when given the proper result with the full input input
+- Day 13 : Incomplete - Giving the right results in the test input, not when given the full input
